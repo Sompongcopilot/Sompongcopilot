@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sompongcopilot
 - 👀 I’m interested in AI user
 - 🌱 I’m currently learning about how to use AI for my life
-- 💞️ I’m looking to collaborate on Githup
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me by my email: onestopsp@outlook.com
 
 <!---
